@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timlit
 - 👀 I’m into php and .Net
-- 🌱 I’m currently learning GoLang, Python, Java; ML
+- 🌱 I’m learning GoLang, Python, Java; ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
