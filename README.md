@@ -28,8 +28,11 @@ I offer the following services.
 
 С уважением/Regards,
 Тимур Х. /Timur K.
+
 Руководитель, ведущий разработчик
+
 Director, lead developer
+
 +996 502 375616
 
 
