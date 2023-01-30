@@ -36,7 +36,7 @@ Director, lead developer
 +996 502 375616
 
 
-<a aria-label="Chat on WhatsApp" type="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
+<a aria-label="Chat on WhatsApp" target="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
 <!---
 <img alt="Chat on WhatsApp"  src="WhatsAppButtonGreenLarge.svg"/> 
 
