@@ -13,7 +13,9 @@
 
 3) Образовательные. Провожу курсы компьютерной граммотности для компаний.
 
+Greetings!
 
+I represent a web studio and 
 
 
 
@@ -23,8 +25,10 @@
 +996 502 375616
 
 
-<a aria-label="Chat on WhatsApp" href="https://wa.me/1XXXXXXXXXX"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a aria-label="Chat on WhatsApp" href="https://wa.me/+996502375616"> <img alt="Chat on WhatsApp"  />
 <!---
+
+src="WhatsAppButtonGreenLarge.svg"
 - 👋 Hi, I’m @timlit
 - 👀 I’m into php and .Net
 - 🌱 I’m learning GoLang, Python, Java; ML
