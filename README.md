@@ -36,10 +36,10 @@ Director, lead developer
 +996 502 375616
 
 
-<a aria-label="Chat on WhatsApp" href="https://wa.me/+996502375616"> <img alt="Chat on WhatsApp"  /> </a>
+<a aria-label="Chat on WhatsApp" type="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
 <!---
+<img alt="Chat on WhatsApp"  src="WhatsAppButtonGreenLarge.svg"/> 
 
-src="WhatsAppButtonGreenLarge.svg"
 - 👋 Hi, I’m @timlit
 - 👀 I’m into php and .Net
 - 🌱 I’m learning GoLang, Python, Java; ML
