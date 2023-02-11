@@ -35,8 +35,10 @@ Director, lead developer
 
 +996 502 375616
 
-
 <a aria-label="Chat on WhatsApp" target="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
+
+PS:
+<a href="https://github.com/timlit/goodies" target="_blank">Goodies page</a>
 <!---
 <img alt="Chat on WhatsApp"  src="WhatsAppButtonGreenLarge.svg"/> 
 
