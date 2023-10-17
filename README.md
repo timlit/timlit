@@ -32,9 +32,8 @@ I offer the following services.
 Director, lead developer
 
 +996 505 369950
-email: tim.fmp@gmx.com
 
-<a aria-label="Chat on WhatsApp" target="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
+<a aria-label="Chat on WhatsApp" target="_blank" href="https://wa.me/+996505369950">Chat on WhatsApp</a>
 
 PS:
 <a href="https://github.com/timlit/goodies" target="_blank">Goodies page</a>
