@@ -11,7 +11,6 @@
 желающих обоготить свой бизнес потенциалом интернета и информационных технологий в целом.
 Как результат, у Вас будет понимание, что ожидать от таких явлений СМИ, ИТ и SEO и соответствующих специалистов.
 
-3) Образовательные. Провожу курсы компьютерной граммотности для компаний.
 
 
 Greetings!
@@ -24,7 +23,6 @@ I offer the following services.
 - technical administration for web portals
 
 2) Marketing. Initial internet-marketing consulting for business and product owners.
-3) Educational. Computer literacy courses for companies.
 
 С уважением/Regards,
 Тимур Х. /Timur K.
