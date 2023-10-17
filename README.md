@@ -33,7 +33,8 @@ I offer the following services.
 
 Director, lead developer
 
-+996 502 375616
++996 505 369950
+email: tim.fmp@gmx.com
 
 <a aria-label="Chat on WhatsApp" target="_blank" href="https://wa.me/+996502375616">Chat on WhatsApp</a>
 
